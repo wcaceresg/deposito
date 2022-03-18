@@ -1,0 +1,4 @@
+RewriteEngine On
+Options +FollowSymLinks
+RewriteRule ^pref/(.*)$		route/web.php?lng=$1 [L]
+RewriteRule ^deposito/(.*)$		route/deposito.php?lng=$1 [L]

@@ -1,0 +1,1 @@
+(()=>{var r={371:(r,t,e)=>{var n=e(617);n.suma,n.resta},617:(r,t)=>{t.suma=function(r,t){return r+t},t.resta=function(r,t){return r-t}}},t={};function e(n){var s=t[n];if(void 0!==s)return s.exports;var u=t[n]={exports:{}};return r[n](u,u.exports,e),u.exports}(()=>{"use strict";e(371)})()})();
