@@ -1,5 +1,5 @@
 # deposito
-Instalar download node 12.13
-npm install
-npm update
-npm run build
+Instalar download node 12.13 </br>
+npm install </br>
+npm update </br>
+npm run build </br>
