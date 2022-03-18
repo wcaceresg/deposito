@@ -1,5 +1,5 @@
 # Deposito Demo - imprimir ticker PHP MVC && WEBPACK NODE JS
-1.git clone https://github.com/wcaceresg/deposito.git
+1.git clone https://github.com/wcaceresg/deposito.git </br>
 2.Instalar download node 12.13 </br>
 3.npm install </br>
 4.npm run build </br>
