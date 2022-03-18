@@ -1,5 +1,6 @@
 # Deposito Demo - imprimir ticker PHP MVC && WEBPACK NODE JS
-1.Instalar download node 12.13 </br>
-2.npm install </br>
-3.npm run build </br>
-4.GET http://localhost/casino
+1.git clone https://github.com/wcaceresg/deposito.git
+2.Instalar download node 12.13 </br>
+3.npm install </br>
+4.npm run build </br>
+5.GET http://localhost/casino
